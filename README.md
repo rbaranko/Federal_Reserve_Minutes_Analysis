@@ -4,3 +4,5 @@ Background: The Federal Open Market Committee (FOMC), a committee within the Fed
 
 Goal: This project aims to (a) measure and quantify central bankers' positive and negative sentiment expressed during these high-level meetings, and then (b) examine how the two sentiment measures evolve over time on a yearly. Finally, we will examine what other factors contribute to negative (positive) market sentiment.
 
+The minutes are kept in a zip file and are available individually upon request.
+
